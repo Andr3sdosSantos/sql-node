@@ -10,6 +10,7 @@ module.exports = {
     /* Cria duas tabelas dentro do banco, verifica data de edição e criação da tabela.
      * -> created_at(...) : updated_at(...)
      */
+    /* Teste */
     underscored: true, // Define que os nomes de tabelas e colunas fiquem no formato 'snake_case'
   },
 };
