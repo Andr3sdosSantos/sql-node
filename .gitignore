@@ -1,1 +1,8 @@
 /node_modules
+
+.prettierrc
+.gitignore
+.package.json
+yarn.lock
+.sequelizerc
+.eslintrc
